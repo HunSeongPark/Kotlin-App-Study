@@ -1,0 +1,4 @@
+hunseong/com/service/BuildConfig.java
+ hunseong.com.service.BuildConfig
+hunseong/com/service/databinding/ActivityMainBinding.java
+ hunseong.com.service.databinding.ActivityMainBinding
