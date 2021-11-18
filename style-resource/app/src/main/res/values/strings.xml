@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">style-resource</string>
+    <string name="text1">Hello, I\'m Text 1</string>
+    <string name="text2">Wassup! I\'m Text 2!</string>
+    <string name="text3">H..i......text3</string>
+</resources>
