@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Viewpager2</string>
+
+    <!--  splash pager string  -->
+    <string name="str_1">Hello!</string>
+    <string name="str_2">My name is</string>
+    <string name="str_3">HunSeongPark.</string>
+    <string name="str_4">Nice to meet you!</string>
+
+    <!--  main pager string  -->
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="third_sub_text">third_sub_text</string>
+    <string name="sample_button">Sample button</string>
+    <string name="skip">Skip</string>
+</resources>
