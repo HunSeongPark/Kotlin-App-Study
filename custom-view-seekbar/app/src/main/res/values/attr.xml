@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SeekBarWithHint">
+        <attr name="hint_text_size" format="dimension"/>
+        <attr name="hint_text_color" format="color" />
+    </declare-styleable>
+</resources>
