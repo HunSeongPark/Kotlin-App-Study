@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">infinite-scroll</string>
+    <string name="item_x">Item X</string>
+</resources>

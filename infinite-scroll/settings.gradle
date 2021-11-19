@@ -1,0 +1,2 @@
+rootProject.name = "infinite-scroll"
+include ':app'
