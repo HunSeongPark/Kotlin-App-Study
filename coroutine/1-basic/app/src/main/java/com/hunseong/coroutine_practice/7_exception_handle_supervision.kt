@@ -1,9 +1,6 @@
 package com.hunseong.coroutine_practice
 
-import kotlinx.coroutines.CoroutineExceptionHandler
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.runBlocking
-import kotlinx.coroutines.supervisorScope
+import kotlinx.coroutines.*
 import java.io.IOException
 
 fun main(): Unit = runBlocking {
@@ -18,6 +15,7 @@ fun main(): Unit = runBlocking {
     //  = CoroutineScope(coroutineContext + SupervisorJob()).launch {}
     supervisorScope {
         val child = launch(handler) {
+
             throw IOException()
         }
     }
