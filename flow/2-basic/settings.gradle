@@ -1,0 +1,2 @@
+rootProject.name = "flow-basic2"
+include ':app'
