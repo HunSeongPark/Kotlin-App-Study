@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">sunflower-practice</string>
+    <string name="sunflower">Sunflower</string>
+    <string name="menu_share">Share</string>
+    <string name="empty_garden">추가된 항목이 없습니다!</string>
+    <string name="add_plant">add plant</string>
 </resources>
