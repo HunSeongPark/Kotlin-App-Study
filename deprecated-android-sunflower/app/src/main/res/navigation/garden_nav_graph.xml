@@ -6,6 +6,7 @@
     android:id="@+id/garden_nav_graph">
 
     <fragment android:id="@+id/view_pager_fragment"
+        android:name="com.hunseong.sunflower_practice.HomeViewPagerFragment"
         tools:layout="@layout/fragment_view_pager">
 
         <action

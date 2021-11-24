@@ -4,4 +4,6 @@
     <string name="menu_share">Share</string>
     <string name="empty_garden">추가된 항목이 없습니다!</string>
     <string name="add_plant">add plant</string>
+    <string name="my_title">MY FLOWER</string>
+    <string name="plant_list_title">PLANT LIST</string>
 </resources>
